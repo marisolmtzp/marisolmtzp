@@ -1,16 +1,43 @@
-## Hi there 👋
+# Marisol Martínez Pulgarín
 
-<!--
-**marisolmtzp/marisolmtzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Durango, México 🇲🇽
 
-Here are some ideas to get you started:
+Convierto datos en decisiones: entiendo los datos porque primero entendí el proceso detrás de ellos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Stack
+
+**Análisis y ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-005571?style=flat)
+
+**BI y visualización**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+**Bases de datos**
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat)
+
+## 📊 Sobre mí
+
+- 10+ años de experiencia combinando ERP gubernamental (Oracle E-Business Suite), coordinación de calidad (CMMI) y emprendimiento retail
+- Fundadora de dos plataformas retail: Cielo Showroom y The Happy Market Dgo
+- Actualmente en bootcamp de Data Analytics en TripleTen
+- Consultora freelance en analítica de datos
+
+## 🚀 Proyectos destacados
+
+<!-- Reemplaza con tus repos reales -->
+- **[Nombre del proyecto](link)** — breve descripción del impacto/insight
+- **[Nombre del proyecto](link)** — breve descripción del impacto/insight
+
+## 🔗 Links
+
+- Portafolio: [marisolmtzp.github.io](https://marisolmtzp.github.io)
+- LinkedIn: [linkedin.com/in/marisolmtzp](https://www.linkedin.com/in/marisolmtzp)
+
+## 📈 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marisolmtzp&show_icons=true&theme=default)
