@@ -22,7 +22,7 @@ Convierto datos en decisiones: entiendo los datos porque primero entendí el pro
 
 ## 📊 Sobre mí
 
-- 10+ años de experiencia combinando ERP gubernamental (Oracle E-Business Suite), coordinación de calidad (CMMI) y emprendimiento retail
+- 10+ años de experiencia combinando desarrollo de software, ERP gubernamental (Oracle E-Business Suite), coordinación de calidad (CMMI) y emprendimiento retail
 - Fundadora de dos plataformas retail: Cielo Showroom y The Happy Market Dgo
 - Actualmente en bootcamp de Data Analytics en TripleTen
 - Consultora freelance en analítica de datos
@@ -30,14 +30,10 @@ Convierto datos en decisiones: entiendo los datos porque primero entendí el pro
 ## 🚀 Proyectos destacados
 
 <!-- Reemplaza con tus repos reales -->
-- **[Nombre del proyecto](link)** — breve descripción del impacto/insight
-- **[Nombre del proyecto](link)** — breve descripción del impacto/insight
+- **[Dahsboard de Análisis Comercial Inmobiliario - Andes Capital Real Estate](link)** — Dashboard ejecutivo en Power BI sobre ventas de propiedades (Bogotá y Ciudad de México, 2023–2024), con modelo de datos en esquema estrella y medidas DAX (ticket promedio, comisión total, participación por segmento); identifiqué un patrón de estacionalidad impulsado por volumen (picos marzo–abril y septiembre–noviembre) con precio promedio estable, y construí una matriz de cohortes para analizar recurrencia de clientes. Narrativa bajo framework SCQA orientada a análisis ejecutivo. Herramientas: Power BI, DAX, Python (validación de datos), esquema estrella, cohortes de retención.
+<!--  - **[Nombre del proyecto](link)** — breve descripción del impacto/insight -->
 
 ## 🔗 Links
 
 - Portafolio: [marisolmtzp.github.io](https://marisolmtzp.github.io)
 - LinkedIn: [linkedin.com/in/marisolmtzp](https://www.linkedin.com/in/marisolmtzp)
-
-## 📈 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marisolmtzp&show_icons=true&theme=default)
