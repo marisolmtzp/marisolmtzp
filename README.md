@@ -52,7 +52,7 @@ Convierto datos en decisiones: entiendo los datos porque primero entendí el pro
 ## 🚀 Proyectos destacados
 
 <!-- Reemplaza con tus repos reales -->
-- **[Dahsboard de Power BI - Análisis Comercial Inmobiliario - Andes Capital Real Estate](https://github.com/marisolmtzp/10_dashboard_analisis_comercial_ACRE)**
+- **[Dahsboard de Análisis Comercial Inmobiliario - Andes Capital Real Estate](https://github.com/marisolmtzp/10_dashboard_analisis_comercial_ACRE)**
 <br>Dashboard ejecutivo en Power BI de análisis comercial sobre ventas de propiedades en Bogotá y CDMX (2023–2024).
 <br>Modelo de datos en esquema estrella con medidas DAX (ticket promedio, comisión total, participación por segmento).
 <br>Insight clave: la estacionalidad está impulsada por volumen, no por precio — picos en marzo–abril y septiembre–noviembre, con ticket promedio estable. 
