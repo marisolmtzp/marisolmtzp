@@ -53,7 +53,7 @@ Convierto datos en decisiones: entiendo los datos porque primero entendí el pro
 
 <!-- Reemplaza con tus repos reales -->
 - **[Dahsboard de Análisis Comercial Inmobiliario - Andes Capital Real Estate](link)**
-- Dashboard ejecutivo en Power BI sobre ventas de propiedades (Bogotá y Ciudad de México, 2023–2024), con modelo de datos en esquema estrella y medidas DAX (ticket promedio, comisión total, participación por segmento); identifiqué un patrón de estacionalidad impulsado por volumen (picos marzo–abril y septiembre–noviembre) con precio promedio estable, y construí una matriz de cohortes para analizar recurrencia de clientes. Narrativa bajo framework SCQA orientada a análisis ejecutivo. Herramientas: Power BI, DAX, Python (validación de datos), esquema estrella, cohortes de retención.
+Dashboard ejecutivo en Power BI sobre ventas de propiedades (Bogotá y Ciudad de México, 2023–2024), con modelo de datos en esquema estrella y medidas DAX (ticket promedio, comisión total, participación por segmento); identifiqué un patrón de estacionalidad impulsado por volumen (picos marzo–abril y septiembre–noviembre) con precio promedio estable, y construí una matriz de cohortes para analizar recurrencia de clientes. Narrativa bajo framework SCQA orientada a análisis ejecutivo. Herramientas: Power BI, DAX, Python (validación de datos), esquema estrella, cohortes de retención.
 <!--  - **[Nombre del proyecto](link)** — breve descripción del impacto/insight -->
 
 ## 🔗 Links
