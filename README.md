@@ -58,7 +58,7 @@ Convierto datos en decisiones: entiendo los datos porque primero entendí el pro
 <br>Insight clave: la estacionalidad está impulsada por volumen, no por precio — picos en marzo–abril y septiembre–noviembre, con ticket promedio estable. 
 <br>Matriz de cohortes para analizar recurrencia de clientes.
 <br>Narrativa ejecutiva bajo framework SCQA. 
-<br>**🛠️ Stack:** Power BI · DAX · Python (validación de datos) · Esquema estrella · Cohortes de retención
+<br>**🛠️ Stack: Power BI · DAX · Python (validación de datos) · Esquema estrella · Cohortes de retención**
 
 
 <!--  - **[Nombre del proyecto](link)** — breve descripción del impacto/insight -->
