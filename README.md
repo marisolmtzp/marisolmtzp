@@ -1,6 +1,6 @@
 # Marisol Martínez Pulgarín
 
-Data Analyst | Durango, México 🇲🇽
+Analista de Datos | Durango, México 🇲🇽
 
 Convierto datos en decisiones: entiendo los datos porque primero entendí el proceso detrás de ellos.
 
