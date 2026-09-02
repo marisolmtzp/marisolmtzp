@@ -1,6 +1,6 @@
 # Marisol Martínez Pulgarín
 
-Analista de Datos | Durango, México 🇲🇽
+Analista de Datos | Business Analyst | BI Developer | Durango, México 🇲🇽
 
 Convierto datos en decisiones estratégicas: entiendo los datos porque primero entendí el proceso detrás de ellos.
 
@@ -68,3 +68,4 @@ Soy 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗗𝗮𝘁𝗼𝘀, 𝗕𝘂𝘀
 
 - Portafolio: [marisolmtzp.github.io](https://marisolmtzp.github.io)
 - LinkedIn: [linkedin.com/in/marisolmtzp](https://www.linkedin.com/in/marisolmtzp)
+- [Currículum Vitae](https://marisolmtzp.github.io/assets/ES_MMP.pdf)
