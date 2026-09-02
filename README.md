@@ -59,7 +59,7 @@ Soy 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗗𝗮𝘁𝗼𝘀, 𝗕𝘂𝘀
 <br>Insight clave: la estacionalidad está impulsada por volumen, no por precio — picos en marzo–abril y septiembre–noviembre, con ticket promedio estable. 
 <br>Matriz de cohortes para analizar recurrencia de clientes.
 <br>Narrativa ejecutiva bajo marco SCQA/Minto. 
-<br>**🛠️ Stack:** Power BI · DAX · Excel/Python (validación de datos) · Modelado en esquema estrella · Cohortes de retención
+<br>**🛠️ Stack:** Power BI · DAX · Excel / Python (validación de datos) · Modelado en esquema estrella · Cohortes de retención
 
 
 <!--  - **[Nombre del proyecto](link)** — breve descripción del impacto/insight -->
