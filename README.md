@@ -68,4 +68,3 @@ Soy 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗗𝗮𝘁𝗼𝘀, 𝗕𝘂𝘀
 
 - Portafolio: [marisolmtzp.github.io](https://marisolmtzp.github.io)
 - LinkedIn: [linkedin.com/in/marisolmtzp](https://www.linkedin.com/in/marisolmtzp)
-- [Currículum Vitae](https://marisolmtzp.github.io/assets/ES_MMP.pdf)
