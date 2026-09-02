@@ -46,7 +46,7 @@ Convierto datos en decisiones estratégicas: entiendo los datos porque primero e
 
 - +10 años de experiencia combinando desarrollo de software, ERP gubernamental (Oracle E-Business Suite), coordinación de calidad (CMMI) y emprendimiento retail
 - Fundadora de dos plataformas retail: Cielo Showroom y The Happy Market Dgo
-- Actualmente finalizando bootcamp de Data Analytics en TripleTen
+- Cuento con certificación Data Analytics en TripleTen Latinoamérica
 - Consultora freelance en analítica de datos y desarrollo de software
 
 ## 🚀 Proyectos destacados
