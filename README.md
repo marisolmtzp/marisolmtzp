@@ -1,6 +1,6 @@
 # Marisol Martínez Pulgarín
 
-Analista de Datos | Business Analyst | BI Developer | Durango, México 🇲🇽
+Durango, México 🇲🇽
 
 Convierto datos en decisiones estratégicas: entiendo los datos porque primero entendí el proceso detrás de ellos.
 
