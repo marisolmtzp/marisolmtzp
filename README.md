@@ -2,7 +2,7 @@
 
 Analista de Datos | Durango, México 🇲🇽
 
-Convierto datos en decisiones: entiendo los datos porque primero entendí el proceso detrás de ellos.
+Convierto datos en decisiones estratégicas: entiendo los datos porque primero entendí el proceso detrás de ellos.
 
 ## 🔧 Stack
 
