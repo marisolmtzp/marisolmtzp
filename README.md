@@ -1,7 +1,5 @@
 # Marisol Martínez Pulgarín
 
-Durango, México 🇲🇽
-
 Convierto datos en decisiones estratégicas: entiendo los datos porque primero entendí el proceso detrás de ellos.
 
 Soy 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗗𝗮𝘁𝗼𝘀, 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 y 𝗕𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 con base sólida en 𝗱𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗼 𝗱𝗲 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 y +𝟭𝟬 𝗮ñ𝗼𝘀 𝗱𝗲 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗶𝗮 en entornos técnico-administrativos (Oracle EBS). Domino el 𝗰𝗶𝗰𝗹𝗼 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗼 𝗱𝗲𝗹 𝗱𝗮𝘁𝗼: extraerlo y limpiarlo, modelarlo en 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜/𝗗𝗔𝗫, y traducirlo en una recomendación que un equipo pueda usar de inmediato. Trabajo con 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗦𝗤𝗟, 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 y 𝗧𝗮𝗯𝗹𝗲𝗮𝘂, y estructuro mis hallazgos para que cada dashboard cuente una historia, no solo muestre números.
