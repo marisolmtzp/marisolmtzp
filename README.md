@@ -47,7 +47,7 @@ Soy 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗗𝗮𝘁𝗼𝘀, 𝗕𝘂𝘀
 ## 📊 Sobre mí
 - Cuento con certificación Data Analytics en TripleTen Latinoamérica
 - Certificación Scrum Product Owner por el International Scrum Institute
-- +10 años de experiencia combinando desarrollo de software, ERP gubernamental (Oracle E-Business Suite), coordinación de calidad (CMMI) y fundadora de emprendimiento retail dos plataformas de venta: Cielo Showroom y The Happy Market Dgo
+- +10 años de experiencia combinando desarrollo de software, ERP gubernamental (Oracle E-Business Suite), coordinación de calidad (CMMI) y fundadora de emprendimiento retail con dos plataformas de venta: Cielo Showroom y The Happy Market Dgo
 - Consultora freelance en analítica de datos y desarrollo de software
 
 ## 🚀 Proyectos destacados
