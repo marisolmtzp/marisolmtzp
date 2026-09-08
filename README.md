@@ -41,7 +41,7 @@ Soy 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗗𝗮𝘁𝗼𝘀, 𝗕𝘂𝘀
 
 
 
-
+ 
 ## 📊 Sobre mí
 - Cuento con certificación Data Analytics en TripleTen Latinoamérica
 - Certificación Scrum Product Owner por el International Scrum Institute
