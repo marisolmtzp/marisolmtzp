@@ -57,7 +57,7 @@ Soy 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗗𝗮𝘁𝗼𝘀, 𝗕𝘂𝘀
 <br>Insight clave: la estacionalidad está impulsada por volumen, no por precio — picos en marzo–abril y septiembre–noviembre, con ticket promedio estable. 
 <br>Matriz de cohortes para analizar recurrencia de clientes.
 <br>Narrativa ejecutiva bajo marco SCQA/Minto. 
-<br>**🛠️ Stack:** Power BI · DAX · Excel / Python (validación de datos) · Modelado en esquema estrella · Cohortes de retención
+<br>**🛠️ Stack: Power BI · DAX · Excel / Python (validación de datos) · Modelado en esquema estrella · Cohortes de retención**
 
 - **[Dahsboard de Análisis de Desempeño Comercial - Andes Retail Group](https://github.com/marisolmtzp/09_dashboard_desempeno_comercial_ARG)**
 <br>Dashboard ejecutivo en Power BI de análisis comercial sobre ventas retail en Perú, Chile y Colombia (2024–2025).
@@ -65,7 +65,7 @@ Soy 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗗𝗮𝘁𝗼𝘀, 𝗕𝘂𝘀
 <br>Insight clave: la caída de ingresos entre 2024 y 2025 está impulsada casi en su totalidad por el segmento Premium — concentrada en Chile, en las categorías Ropa y Electrónica, con la región Sur cayendo de forma consistente en los tres países.
 <br>Vista Detalle con comparativas cruzadas (segmento, categoría, país, región, año) y tabla de detalle para diagnóstico.
 <br>Narrativa ejecutiva bajo marco SCQA, incluyendo mensaje asincrónico tipo Slack con acciones recomendadas.
-<br>**🛠️ Stack:** Power BI · DAX · Power Query · Excel · Modelado de datos · Storytelling SCQA
+<br>**🛠️ Stack: Power BI · DAX · Power Query · Excel · Modelado de datos · Storytelling SCQA**
 
 
 
