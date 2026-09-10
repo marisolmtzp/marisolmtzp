@@ -59,7 +59,7 @@ Soy 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗗𝗮𝘁𝗼𝘀, 𝗕𝘂𝘀
 <br>Narrativa ejecutiva bajo marco SCQA/Minto. 
 <br>**🛠️ Stack: Power BI · DAX · Excel / Python (validación de datos) · Modelado en esquema estrella · Cohortes de retención**
 
-- **[Dahsboard de Análisis de Desempeño Comercial - Andes Retail Group](https://github.com/marisolmtzp/09_dashboard_desempeno_comercial_ARG)**
+- **[Dashboard de Análisis de Desempeño Comercial - Andes Retail Group](https://github.com/marisolmtzp/09_dashboard_desempeno_comercial_ARG)**
 <br>Dashboard ejecutivo en Power BI de análisis comercial sobre ventas retail en Perú, Chile y Colombia (2024–2025).
 <br>Cuatro categorías de producto (Electrónica, Ropa, Deportes, Hogar) y KPIs clave: ingresos totales, ganancia total, pedidos totales, ticket promedio.
 <br>Insight clave: la caída de ingresos entre 2024 y 2025 está impulsada casi en su totalidad por el segmento Premium — concentrada en Chile, en las categorías Ropa y Electrónica, con la región Sur cayendo de forma consistente en los tres países.
