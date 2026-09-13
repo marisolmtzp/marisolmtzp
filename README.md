@@ -67,8 +67,12 @@ Soy 𝗔𝗻𝗮𝗹𝗶𝘀𝘁𝗮 𝗱𝗲 𝗗𝗮𝘁𝗼𝘀, 𝗕𝘂𝘀
 <br>Narrativa ejecutiva bajo marco SCQA, incluyendo mensaje asincrónico tipo Slack con acciones recomendadas.
 <br>**🛠️ Stack: Power BI · DAX · Power Query · Excel · Modelado de datos · Storytelling SCQA**
 
-
-
+- **[¿Qué versión convierte más? Validación estadística de un experimento A/B - E-commerce](https://github.com/marisolmtzp/08_experimentoAB_landing_ventas_ECM)**
+<br>Análisis estadístico en Python de un experimento A/B sobre la landing page de una empresa de e-commerce (enero 2026).
+<br>Comparación de tasa de conversión y gasto promedio por usuario entre las versiones A y B, con pruebas t, Z y Chi-cuadrada, segmentado por fuente de tráfico y tipo de usuario.
+<br>Insight clave: la página B supera a la A tanto en tasa de conversión (16.0% vs 12.6%) como en gasto promedio ($68.75 vs $61.09), ambas diferencias estadísticamente significativas. La fuente de tráfico también se asocia con la conversión, aunque con diferencias pequeñas entre canales; el tipo de usuario (nuevo/recurrente), en cambio, no influye en la conversión.
+<br>Narrativa ejecutiva bajo marco SCQA, traduciendo el resultado estadístico en una recomendación de negocio: B como candidata a implementar, sujeta a validación adicional de impacto de negocio.
+<br>**🛠️ Stack: Python · Pandas · Pruebas de hipótesis (t-test, Z, Chi-cuadrada) · Storytelling SCQA**
 
 <!--  - **[Nombre del proyecto](link)** — breve descripción del impacto/insight -->
 
